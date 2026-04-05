@@ -1,0 +1,232 @@
+{
+    "patient": {
+        "full_name": "Shivam Kumar",
+        "patient_id": "NK-SHIVAM",
+        "password": "shivam123",
+        "age": 28,
+        "gender": "male",
+        "injury_type": "Shoulder injury",
+        "injury_details": "Rotator cuff tear with partial dislocation. Post-surgical rehabilitation with focus on lateral mobility and cognitive recovery.",
+        "assigned_exercises": [
+            "lateral_raises",
+            "elbow_stretching",
+            "cognitive_rehab"
+        ],
+        "exercise_plan": {
+            "sessions_per_day": 1,
+            "sets": 3,
+            "reps_per_set": 10,
+            "hold_secs": 2,
+            "break_between_exercises_secs": 60
+        },
+        "rehab_day": 14,
+        "pain_tolerance": 1.3,
+        "overall_cog_score": 72.5
+    },
+    "rehab_sessions": [
+        {
+            "session_number": 1,
+            "session_date": "2026-03-23",
+            "total_reps": 18,
+            "avg_accuracy_pct": 42.0,
+            "completed": true,
+            "rehab_day": 1
+        },
+        {
+            "session_number": 2,
+            "session_date": "2026-03-24",
+            "total_reps": 22,
+            "avg_accuracy_pct": 48.5,
+            "completed": true,
+            "rehab_day": 2
+        },
+        {
+            "session_number": 3,
+            "session_date": "2026-03-25",
+            "total_reps": 25,
+            "avg_accuracy_pct": 53.0,
+            "completed": true,
+            "rehab_day": 3
+        },
+        {
+            "session_number": 4,
+            "session_date": "2026-03-26",
+            "total_reps": 24,
+            "avg_accuracy_pct": 51.0,
+            "completed": true,
+            "rehab_day": 4
+        },
+        {
+            "session_number": 5,
+            "session_date": "2026-03-27",
+            "total_reps": 28,
+            "avg_accuracy_pct": 58.2,
+            "completed": true,
+            "rehab_day": 5
+        },
+        {
+            "session_number": 6,
+            "session_date": "2026-03-28",
+            "total_reps": 27,
+            "avg_accuracy_pct": 55.0,
+            "completed": true,
+            "rehab_day": 6
+        },
+        {
+            "session_number": 7,
+            "session_date": "2026-03-29",
+            "total_reps": 30,
+            "avg_accuracy_pct": 62.5,
+            "completed": true,
+            "rehab_day": 7
+        },
+        {
+            "session_number": 8,
+            "session_date": "2026-03-30",
+            "total_reps": 28,
+            "avg_accuracy_pct": 60.0,
+            "completed": true,
+            "rehab_day": 8
+        },
+        {
+            "session_number": 9,
+            "session_date": "2026-03-31",
+            "total_reps": 30,
+            "avg_accuracy_pct": 67.3,
+            "completed": true,
+            "rehab_day": 9
+        },
+        {
+            "session_number": 10,
+            "session_date": "2026-04-01",
+            "total_reps": 30,
+            "avg_accuracy_pct": 71.0,
+            "completed": true,
+            "rehab_day": 10
+        },
+        {
+            "session_number": 11,
+            "session_date": "2026-04-02",
+            "total_reps": 30,
+            "avg_accuracy_pct": 74.5,
+            "completed": true,
+            "rehab_day": 11
+        },
+        {
+            "session_number": 12,
+            "session_date": "2026-04-03",
+            "total_reps": 30,
+            "avg_accuracy_pct": 78.0,
+            "completed": true,
+            "rehab_day": 12
+        },
+        {
+            "session_number": 13,
+            "session_date": "2026-04-04",
+            "total_reps": 30,
+            "avg_accuracy_pct": 82.0,
+            "completed": true,
+            "rehab_day": 13
+        },
+        {
+            "session_number": 14,
+            "session_date": "2026-04-05",
+            "total_reps": 30,
+            "avg_accuracy_pct": 85.5,
+            "completed": true,
+            "rehab_day": 14
+        }
+    ],
+    "cognitive_sessions": [
+        {
+            "game_name": "memory-constellation",
+            "cog_score": 35.0,
+            "level_reached": 2,
+            "days_ago": 13
+        },
+        {
+            "game_name": "number-tap",
+            "cog_score": 40.0,
+            "level_reached": 3,
+            "days_ago": 13
+        },
+        {
+            "game_name": "reaction-flash",
+            "cog_score": 28.0,
+            "level_reached": 1,
+            "days_ago": 12
+        },
+        {
+            "game_name": "memory-constellation",
+            "cog_score": 45.0,
+            "level_reached": 3,
+            "days_ago": 11
+        },
+        {
+            "game_name": "number-tap",
+            "cog_score": 50.0,
+            "level_reached": 4,
+            "days_ago": 10
+        },
+        {
+            "game_name": "reaction-flash",
+            "cog_score": 42.0,
+            "level_reached": 2,
+            "days_ago": 9
+        },
+        {
+            "game_name": "memory-constellation",
+            "cog_score": 55.0,
+            "level_reached": 4,
+            "days_ago": 8
+        },
+        {
+            "game_name": "number-tap",
+            "cog_score": 58.0,
+            "level_reached": 5,
+            "days_ago": 7
+        },
+        {
+            "game_name": "reaction-flash",
+            "cog_score": 50.0,
+            "level_reached": 3,
+            "days_ago": 6
+        },
+        {
+            "game_name": "memory-constellation",
+            "cog_score": 65.0,
+            "level_reached": 5,
+            "days_ago": 5
+        },
+        {
+            "game_name": "number-tap",
+            "cog_score": 68.0,
+            "level_reached": 6,
+            "days_ago": 4
+        },
+        {
+            "game_name": "reaction-flash",
+            "cog_score": 60.0,
+            "level_reached": 4,
+            "days_ago": 3
+        },
+        {
+            "game_name": "memory-constellation",
+            "cog_score": 75.0,
+            "level_reached": 6,
+            "days_ago": 2
+        },
+        {
+            "game_name": "number-tap",
+            "cog_score": 78.0,
+            "level_reached": 7,
+            "days_ago": 1
+        },
+        {
+            "game_name": "reaction-flash",
+            "cog_score": 72.0,
+            "level_reached": 5,
+            "days_ago": 0
+        }
+    ]
+}
